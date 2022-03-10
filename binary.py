@@ -1,4 +1,4 @@
-# Number system conversion calculator
+#Number system conversion calculator
 
 decimal_no = int(input("Enter the decimal number :"))
 base = int(input("Enter 8 for octal,2 for binary, 16 for hexadecimal :"))
